@@ -1,0 +1,1 @@
+Este programa te permite crear, leer, actualizar y eliminar tareas de una base de datos MySQL a través de una interfaz web. Utiliza Fetch para comunicarse con el servidor y realizar operaciones CRUD en las tareas. Esto proporciona una forma sencilla de administrar una lista de tareas en línea.
